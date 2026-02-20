@@ -214,7 +214,7 @@
 					class="reveal max-w-3xl text-5xl font-semibold leading-[0.95] tracking-tight sm:text-6xl lg:text-7xl"
 					style="transition-delay: 140ms;"
 				>
-					KI-Flows für den Mittelstand. Installiert &amp; Integriert.
+					KI-Flows für den Mittelstand.
 				</h1>
 
 				<p
